@@ -1,2 +1,2 @@
 # Sprint 6. Algoritmes d’aprenentatge supervisat: Regressió
-Aplicar correctament els algoritmes d'aprenentatge supervisat amb Regressions.
+En aquest mòdul es treballaran els algoritmes de regressió, classificats dins dels algoritmes d'aprenentatge supervisat.
